@@ -1,4 +1,5 @@
 # MedBot: A Medical Diagnostic Chatbot
+Need to make a templates folder with the htmls before running it.
 
 MedBot is a simple medical diagnostic web application built with the Flask framework. It leverages First-order Logic (FOL) to establish relationships between various symptoms and potential diseases. Based on a user's inputs regarding their symptoms, MedBot aims to provide a possible diagnosis and its corresponding treatment.
 
